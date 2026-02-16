@@ -17,7 +17,6 @@ Je développe actuellement mes compétences en :
 
 
 ## Projets
-
 ### Gestion de bornes de collecte (Projet BTS)
 Système de suivi des bornes de recyclage pour optimiser les tournées.
 Architecture : Capteur → Serveur → Base de données → WPF (MVVM).
@@ -29,7 +28,6 @@ Analyse de trames et configuration de topologies (Packet Tracer, Wireshark).
 
 
 ## Expérience en stage
-
 ### Stage – DSI Département de l’Hérault
 Étude comparative d’outils RPA en environnement sécurisé.
 Analyse RGPD, contraintes réseau et réalisation de POC.
@@ -37,7 +35,6 @@ Analyse RGPD, contraintes réseau et réalisation de POC.
 
 
 ## Objectif
-
 Poursuivre mes études en informatique afin d’approfondir mes compétences en cybersécurité, systèmes et architecture logicielle.
 
 
