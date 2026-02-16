@@ -15,27 +15,40 @@ Je développe actuellement mes compétences en :
 - Étude d’automatisation de processus (RPA – Make, n8n)
 
 
-## Projets principaux
 
-### Gestion de bornes de collecte (WPF – architecture client/serveur)
+## Projets techniques
+
+### Gestion de bornes de collecte (Projet BTS)
+
 Système de suivi du niveau de remplissage des bornes de recyclage afin d’optimiser les tournées et réduire les déplacements inutiles.
 Architecture : Capteur → Serveur → Base de données → Application WPF (MVVM).
 
-### Étude d’automatisation (Stage – DSI)
-Analyse comparative d’outils RPA en environnement sécurisé (RGPD, contraintes réseau, proxy).
-Réalisation d’un POC avec Make.
+Rôle personnel :
+Conception de l’interface WPF et structuration en architecture MVVM.
 
 ### Simulations réseau
 Simulations réseau et analyse de trames  
 (Packet Tracer, Wireshark, liaison série)
 
----
+
+
+## Expérience en stage
+
+### Stage – DSI Département de l’Hérault
+
+Étude comparative d’outils d’automatisation (RPA) en environnement sécurisé.
+
+Analyse des contraintes RGPD, proxy, pare-feu et compatibilité Microsoft.
+
+Réalisation d’un POC avec l’outil Make.
+
+
 
 ## Objectif
 
 Poursuivre mes études en informatique afin d’approfondir mes compétences en cybersécurité, systèmes et architecture logicielle.
 
----
+
 
 ## 🛠 Outils utilisés
 
