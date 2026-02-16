@@ -1,4 +1,4 @@
-# Bonjour, je suis Rym 👋
+# Rym Djerourou
 
 Étudiante en BTS CIEL – Cybersécurité & Réseaux  
 En France  
