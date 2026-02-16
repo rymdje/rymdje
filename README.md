@@ -16,20 +16,23 @@ Je développe actuellement mes compétences en :
 
 ---
 
-## 📂 Projets principaux
+## Projets principaux
 
-Application de gestion de bornes de collecte  
-(WPF – architecture client/serveur – base SQL)
+# Gestion de bornes de collecte (WPF – architecture client/serveur)
+Système de suivi du niveau de remplissage des bornes de recyclage afin d’optimiser les tournées et réduire les déplacements inutiles.
+Architecture : Capteur → Serveur → Base de données → Application WPF (MVVM).
 
-Étude de faisabilité d’automatisation en administration publique  
-(RPA – contraintes réseau et sécurité)
+# Étude d’automatisation (Stage – DSI)
+Analyse comparative d’outils RPA en environnement sécurisé (RGPD, contraintes réseau, proxy).
+Réalisation d’un POC avec Make.
 
+# Simulations réseau
 Simulations réseau et analyse de trames  
 (Packet Tracer, Wireshark, liaison série)
 
 ---
 
-## 🎯 Objectif
+## Objectif
 
 Poursuivre mes études en informatique afin d’approfondir mes compétences en cybersécurité, systèmes et architecture logicielle.
 
