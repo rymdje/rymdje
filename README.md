@@ -8,7 +8,7 @@ Je développe actuellement mes compétences en :
 - Sécurité des systèmes et des réseaux
 - Architecture réseau (TCP/UDP, IPv6, simulations Packet Tracer, Wireshark)
 - Développement logiciel (C#, Java, PHP, JavaScript)
-- Bases en algorithmique (structures conditionnelles, boucles, tableaux, tri simple)
+- Notions d’algorithmique (structures conditionnelles, boucles, tableaux)
 - Développement web (HTML/CSS, JavaScript, bases en React)
 - Développement Android (bases en Kotlin)
 - Gestion de bases de données (MySQL, HeidiSQL, PhpMyAdmin)
@@ -43,19 +43,12 @@ Poursuivre mes études en informatique afin d’approfondir mes compétences en 
 
 
 ## Outils et environnements
+Visual Studio · IntelliJ IDEA · Android Studio · VS Code  
+Git · GitHub  
+Linux (Ubuntu) · Windows Server · Machines virtuelles  
+Cisco Packet Tracer · Wireshark  
+MySQL · PhpMyAdmin · HeidiSQL  
+Visual Paradigm · Draw.io
 
-Développement : Visual Studio · IntelliJ IDEA, Android Studio, VS Code  
-
-Réseaux : Cisco Packet Tracer, Wireshark  
-
-Versioning : Git, GitHub  
-
-Systèmes : Linux (Ubuntu), Windows Server  
-
-Virtualisation : Machines virtuelles (VirtualBox / VMware / Hyper-V)
-
-Bases de données : MySQL,  PhpMyAdmin, HeidiSQL  
-
-Modélisation : Visual Paradigm (UML), Draw.io
 
 
