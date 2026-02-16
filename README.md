@@ -16,7 +16,7 @@ Je développe actuellement mes compétences en :
 - Étude d’automatisation de processus (RPA – Make, n8n)
 
 
-## Projets techniques
+## Projets
 
 ### Gestion de bornes de collecte (Projet BTS)
 Système de suivi des bornes de recyclage pour optimiser les tournées.
@@ -41,8 +41,6 @@ Analyse RGPD, contraintes réseau et réalisation de POC.
 Poursuivre mes études en informatique afin d’approfondir mes compétences en cybersécurité, systèmes et architecture logicielle.
 
 
-
-## Outils et environnements
 
 ## Outils et environnements
 
