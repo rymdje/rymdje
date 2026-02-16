@@ -37,10 +37,8 @@ Simulations réseau et analyse de trames
 ### Stage – DSI Département de l’Hérault
 
 Étude comparative d’outils d’automatisation (RPA) en environnement sécurisé.
-
 Analyse des contraintes RGPD, proxy, pare-feu et compatibilité Microsoft.
-
-Réalisation d’un POC avec l’outil Make.
+Réalisation de POC avec plusieurs outils d’automatisation.
 
 
 
