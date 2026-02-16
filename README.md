@@ -1,16 +1,41 @@
-## Hi there 👋
+# Bonjour, je suis Rym 👋
 
-<!--
-**rymdje/rymdje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiante en BTS CIEL – Cybersécurité & Réseaux  
+📍 France  
 
-Here are some ideas to get you started:
+Je développe actuellement mes compétences en :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔐 Sécurité des systèmes et des réseaux  
+- 🌐 Architecture réseau (TCP/UDP, IPv6, simulations Packet Tracer, Wireshark)  
+- 🖥 Développement logiciel (C#, Java, PHP, JavaScript)  
+- ⚛ Développement web (HTML/CSS, JavaScript, bases en React)  
+- 📱 Développement Android (bases en Kotlin)  
+- 🗄 Gestion de bases de données (MySQL, HeidiSQL, PhpMyAdmin)  
+- 🖥 Interfaces graphiques (WPF, Windows Forms, JavaFX)  
+- 🤖 Étude d’automatisation de processus (RPA – Make, n8n)
+
+---
+
+## 📂 Projets principaux
+
+🔹 Application de gestion de bornes de collecte  
+(WPF – architecture client/serveur – base SQL)
+
+🔹 Étude de faisabilité d’automatisation en administration publique  
+(RPA – contraintes réseau et sécurité)
+
+🔹 Simulations réseau et analyse de trames  
+(Packet Tracer, Wireshark, liaison série)
+
+---
+
+## 🎯 Objectif
+
+Poursuivre mes études en informatique afin d’approfondir mes compétences en cybersécurité, systèmes et architecture logicielle.
+
+---
+
+## 🛠 Outils utilisés
+
+Visual Studio · IntelliJ · Android Studio · Git · GitHub  
+Linux (Ubuntu) · Windows Server · MySQL
