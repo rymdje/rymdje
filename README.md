@@ -42,7 +42,7 @@ Poursuivre mes études en informatique afin d’approfondir mes compétences en 
 ## Outils et environnements
 Visual Studio · IntelliJ IDEA · Android Studio · VS Code  
 Git · GitHub  
-Linux (Ubuntu) · Windows Server · Machines virtuelles  
+Linux (Ubuntu) · Windows Server · Machines virtuelles (VirtualBox / Hyper-V)
 Cisco Packet Tracer · Wireshark  
 MySQL · PhpMyAdmin · HeidiSQL  
 Visual Paradigm · Draw.io
