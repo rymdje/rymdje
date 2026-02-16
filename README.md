@@ -1,7 +1,7 @@
 # Bonjour, je suis Rym 👋
 
 Étudiante en BTS CIEL – Cybersécurité & Réseaux  
-France  
+En France  
 
 Je développe actuellement mes compétences en :
 
