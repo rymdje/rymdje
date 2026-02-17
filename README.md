@@ -8,7 +8,6 @@ Je développe actuellement mes compétences en :
 - Sécurité des systèmes et des réseaux
 - Architecture réseau (TCP/UDP, IPv6, simulations Packet Tracer, Wireshark)
 - Développement logiciel (C#, Java, PHP, JavaScript)
-- Notions d’algorithmique (structures conditionnelles, boucles, tableaux)
 - Développement web (HTML/CSS, JavaScript, bases en React)
 - Développement Android (bases en Kotlin)
 - Gestion de bases de données (MySQL, HeidiSQL, PhpMyAdmin)
