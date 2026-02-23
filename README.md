@@ -21,10 +21,6 @@ Système de suivi des bornes de recyclage pour optimiser les tournées.
 Architecture : Capteur → Serveur → Base de données → WPF (MVVM).
 Rôle : Conception de l’interface et structuration MVVM.
 
-### Simulations réseau
-Analyse de trames et configuration de topologies (Packet Tracer, Wireshark).
-
-
 
 ## Expérience en stage
 ### Stage – DSI Département de l’Hérault
