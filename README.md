@@ -28,12 +28,6 @@ Rôle : Conception de l’interface et structuration MVVM.
 Analyse RGPD, contraintes réseau et réalisation de POC.
 
 
-
-## Objectif
-Poursuivre mes études en informatique afin d’approfondir mes compétences en cybersécurité, systèmes et architecture logicielle.
-
-
-
 ## Outils et environnements
 Visual Studio · IntelliJ IDEA · Android Studio · VS Code  
 Git · GitHub  
